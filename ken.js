@@ -1,3 +1,5 @@
+// QUESTION 3
+
 function  findLargerNumber ( num1, num2) {
   if (num1 > num2) {
     return num1;
@@ -5,6 +7,4 @@ function  findLargerNumber ( num1, num2) {
     return num2;
   }
 
-  
-  
 }

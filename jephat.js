@@ -1,3 +1,7 @@
+// QUESTION 1
+
+
+
 //creating funtion
 function calculateSum(array) {
     const Array = [56, 89,64, 74];

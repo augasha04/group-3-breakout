@@ -1,3 +1,7 @@
+// QUESTION 1
+
+
+
 let number = [1,2,5,6,9,8,5,6,3,4];
 
 function evenNumbers(){
