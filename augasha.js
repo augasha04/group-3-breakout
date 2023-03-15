@@ -1,3 +1,6 @@
+// QUESTION 10
+
+
 //Write a function that takes in an array of numbers and returns the product of all the numbers.
 
 const doMath=function(number, number2){
